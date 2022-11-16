@@ -11,4 +11,4 @@
 
 
 <h3 align="center" >Made with ❤️ by me <h3/>
-   <p align="center" ><a href="https://github.com/Sowham-3098/TipTime-App/raw/main/Tip-time.apk">Download Tip-Calculator </a> <p/>
+   <p align="center" ><a href="https://github.com/Sowham-3098/Calculate-Your-Tip/raw/main/Tip-time.apk">Download Tip-Calculator </a> <p/>
